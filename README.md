@@ -1,1 +1,1 @@
-# microservice-scaler
+# Microservice-scaler
